@@ -1,4 +1,4 @@
-# Voice Intelligence Email Transcript
+# Voice Intelligence Converstaion Summary Email
 
 A Twilio Serverless Function that emails Voice Intelligence Conversation Summaries using SendGrid.
 
