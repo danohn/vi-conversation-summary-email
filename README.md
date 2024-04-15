@@ -11,8 +11,8 @@ A Twilio Serverless Function that emails Voice Intelligence Conversation Summari
 
 ## Installation
 
-1. `git clone https://github.com/danohn/vi-email.git`
-2. `cd vi-email`
+1. `git clone https://github.com/danohn/vi-conversation-summary-email.git`
+2. `cd vi-conversation-summary-email`
 3. `mv .env.example .env`
 4. `nano .env` (replace placeholders with real values)
 5. `twilio serverless:deploy`
